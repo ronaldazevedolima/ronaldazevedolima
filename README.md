@@ -8,7 +8,7 @@ js:<img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/common
 </div>
 
 js:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png "js")
+![alt text width](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png "js" "40px")
 <!--
 **ronaldazevedolima/ronaldazevedolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
