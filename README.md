@@ -1,6 +1,15 @@
 <h1>Hi there, I'm Ronald Lima<h1>
 
+<!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
+
+<div>
+<p>js</p>
+<img width="10px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+</div>
+
+js:
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png "js")
 <!--
 **ronaldazevedolima/ronaldazevedolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
