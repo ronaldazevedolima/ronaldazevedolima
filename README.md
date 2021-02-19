@@ -8,19 +8,19 @@
 </div>
 
 <div>
-<img width="40px" alt="react" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(JavaScript_library)&psig=AOvVaw2KKF31w95hZHvQ3FtLMH6h&ust=1613855645561000&source=images&cd=vfe&ved=2ahUKEwi5qob17vbuAhXPBrkGHeRqCLcQjRx6BAgAEAc">
+<img width="40px" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
 </div>
 
 <div>
-<img width="40px" alt="Css3" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F576531189772602694%2F&psig=AOvVaw3sYHBIpIMRHOui1odt785t&ust=1613855698835000&source=images&cd=vfe&ved=2ahUKEwjn97mO7_buAhUeNrkGHb1uBckQjRx6BAgAEAc">
+<img width="40px" alt="Css3" src="https://miro.medium.com/max/280/1*xfJlmNB_-rAJAJzBNKanlQ.jpeg">
 </div>
 
 <div>
-<img width="40px" alt="redux" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-sux5s5%2F&psig=AOvVaw11kRsY8BdTPWqcmhVtE9jv&ust=1613855656842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDigPvu9u4CFQAAAAAdAAAAABAN">
+<img width="40px" alt="redux" src="https://img2.gratispng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg">
 </div>
 
 <div>
-<img width="40px" alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw3x52Y582KtOj_iMIfHSh2Z&ust=1613855685587000&source=images&cd=vfe&ved=2ahUKEwigpZGI7_buAhVUNbkGHZcCDiwQjRx6BAgAEAc">
+<img width="40px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
 </div>
 
 
