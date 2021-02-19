@@ -1,9 +1,9 @@
-<h1>Hi there, I'm Ronald Lima<h1>
+<h1>Hi there, I'm Ronald Lima</h1>
 
-<h3>About me<h3>
+<h3>About me</h3>
 <ul>
-<li>35<li>
-<ul>
+<li>35</li>
+</ul>
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
