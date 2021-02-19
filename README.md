@@ -6,6 +6,9 @@
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
+<div>
+<img width="40px" alt="js" src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png">
+</div>
 
 <!--
 nao consegui editar o tamanho da imagem
