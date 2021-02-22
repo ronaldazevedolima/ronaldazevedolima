@@ -3,6 +3,14 @@
 <h3>About me</h3>
 <ul>
 <li>35</li>
+<li>Husband, Father, Developer</li>
+<li>Retired Nerd</li>
+<li>Gastronomy Lover</li>
+<li>35</li>
+<li>35</li>
+<li>35</li>
+<li>35</li>
+
 </ul>
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
