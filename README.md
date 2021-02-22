@@ -6,17 +6,14 @@
 <li>Husband, Father, Developer</li>
 <li>Retired Nerd</li>
 <li>Gastronomy Lover</li>
-<li>35</li>
-<li>35</li>
-<li>35</li>
-<li>35</li>
+
 
 </ul>
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
 <h2>Front-and stacks:</h2>
-<div style="display:flex;flex-direction:row">
+<div style="display:flex">
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
@@ -37,6 +34,9 @@
 <img width="40px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
 </div>
 </div>
+
+
+
 
 
 <!--
