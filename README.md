@@ -16,7 +16,7 @@
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
 <h2>Front-and stacks:</h2>
-<div class="flex">
+<div style="display:flex;flex-direction:row">
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
@@ -57,7 +57,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.flex = {
-  display = "flex"
-  flex-direction = "row"
-}
