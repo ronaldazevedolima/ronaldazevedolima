@@ -1,26 +1,34 @@
 <h1>Hi there, I'm Ronald Lima</h1>
 
-<h3>About me</h3>
-<span>
+<h3 style="text-align:center">About me</h3>
+<div style="display:flex;flex-direction:row;">
+
+<div>
 <ul>
 <li>35</li>
-<li>Husband, Father, Developer</li>
-<li>Retired Nerd</li>
+<li>Brazilian, living in Florianópolis</li>
+<li>Husband, Father</li>
+<li>Nerd</li>
+<li>Retired rpg player</li>
 <li>Gastronomy Lover</li>
 </ul>
-</span>
-<span>
+</div>
+
+<div>
 <ul>
-<li>35</li>
-<li>Husband, Father, Developer</li>
-<li>Retired Nerd</li>
-<li>Gastronomy Lover</li>
+<li>Engineer</li>
+<li>Retired Chef</li>
+<li>In love with programing</li>
+<li>Full stack developer</li>
 </ul>
-</span>
+</div>
+
+</div>
+
 
 ---
 
-<h2>Contacts</h2>
+<h3 style="text-align:center">Contacts</h3>
 <span style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
 </span>
@@ -29,13 +37,14 @@
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg">(48) 99125-0308</a>
 </span>
 
+<span>
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg">  ronaldazevedolima@gmail.com</a>
+</span>
 
 ---
 
-<h2>Front-and stacks:</h2>
+<h3 style="text-align:center;">Front-and stacks:</h3>
 <span style="display:inline-block">
-
-
 <span>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </span>
@@ -57,7 +66,7 @@
 </span>
 </span>
 
-<h2>Back-and stacks:</h2>
+<h3 style="text-align:center">Back-and stacks:</h3>
 <span style="display:flex">
 <span>
 <img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
@@ -85,7 +94,7 @@
 </span>
 
 ---
-<h3>Learning...</h3>
+<h3 style="text-align:center">Learning...</h3>
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
 </span>
