@@ -15,9 +15,8 @@
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
-<div display="flex" flex-direction="row">
-<h2>Front-and stack:</h2>
-
+<h2>Front-and stacks:</h2>
+<div display="flex">
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
