@@ -7,9 +7,8 @@
 <li>Retired Nerd</li>
 <li>Gastronomy Lover</li>
 
-
 </ul>
-
+---
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 <!-- [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin") -->
 <h2>Contacts</h2>
@@ -25,6 +24,8 @@
 <div>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg">  ronaldazevedolima@gmail.com</a>
 </div>
+
+---
 
 <h2>Front-and stacks:</h2>
 <div style="display:inline-flex">
@@ -76,7 +77,11 @@
 </div>
 </div>
 
-
+---
+<h3>Learning...</h3>
+<div>
+<img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
+</div>
 
 <!--
 nao consegui editar o tamanho da imagem
