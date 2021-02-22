@@ -13,9 +13,11 @@
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 <!-- [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin") -->
 <h2>Contacts</h2>
+
 <div>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
 </div>
+
 <div>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg">(48) 99125-0308</a>
 </div>
@@ -25,7 +27,7 @@
 </div>
 
 <h2>Front-and stacks:</h2>
-<div style="display:flex">
+<div style="display:inline-flex">
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
