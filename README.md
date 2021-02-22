@@ -15,12 +15,13 @@
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
 [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
-
+<div>
 <div>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
+<h2>Front-and stack:</h2>
 
-<div>
+<div display="flex" flex-direction="row">
 <img width="40px" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
 </div>
 
@@ -34,6 +35,7 @@
 
 <div>
 <img width="40px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+</div>
 </div>
 
 
