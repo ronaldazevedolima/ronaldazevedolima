@@ -1,35 +1,41 @@
 <h1>Hi there, I'm Ronald Lima</h1>
 
 <h3>About me</h3>
+<span>
 <ul>
 <li>35</li>
 <li>Husband, Father, Developer</li>
 <li>Retired Nerd</li>
 <li>Gastronomy Lover</li>
 </ul>
+</span>
+<span>
+<ul>
+<li>35</li>
+<li>Husband, Father, Developer</li>
+<li>Retired Nerd</li>
+<li>Gastronomy Lover</li>
+</ul>
+</span>
 
 ---
 
-<!-- entre [] texto que vai aparecer, entre() link e descricao-->
-<!-- [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin") -->
 <h2>Contacts</h2>
-<div></div>
-<div style="display:felx">
+<span style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
-</div>
+</span>
 
-<div>
+<span>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg">(48) 99125-0308</a>
-</div>
+</span>
 
-<div>
-<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg">  ronaldazevedolima@gmail.com</a>
-</div>
 
 ---
 
 <h2>Front-and stacks:</h2>
 <span style="display:inline-block">
+
+
 <span>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </span>
@@ -52,37 +58,37 @@
 </span>
 
 <h2>Back-and stacks:</h2>
-<div style="display:flex">
-<div>
+<span style="display:flex">
+<span>
 <img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg">
-</div>
-</div>
+</span>
+</span>
 
 ---
 <h3>Learning...</h3>
-<div>
+<span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
-</div>
+</span>
 
 <!--
 nao consegui editar o tamanho da imagem
