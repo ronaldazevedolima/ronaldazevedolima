@@ -29,27 +29,27 @@
 ---
 
 <h2>Front-and stacks:</h2>
-<div style="display: inline">
-<div>
+<span style="display:inline-block">
+<span>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="Css3" src="https://miro.medium.com/max/280/1*xfJlmNB_-rAJAJzBNKanlQ.jpeg">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="redux" src="https://img2.gratispng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg">
-</div>
+</span>
 
-<div>
+<span>
 <img width="40px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-</div>
-</div>
+</span>
+</span>
 
 <h2>Back-and stacks:</h2>
 <div style="display:flex">
