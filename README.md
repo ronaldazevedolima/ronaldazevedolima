@@ -11,7 +11,9 @@
 </ul>
 
 <!-- entre [] texto que vai aparecer, entre() link e descricao-->
-[link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin")
+<!-- [link linkedin](https://www.linkedin.com/in/ronald-limaa "My Linkedin") -->
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
+
 <h2>Front-and stacks:</h2>
 <div style="display:flex">
 <div>
