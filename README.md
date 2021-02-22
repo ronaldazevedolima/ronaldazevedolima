@@ -15,7 +15,9 @@
 <h2>Contacts</h2>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
 
-<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg">(48) 99125-0308</a>
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg">(48) 99125-0308</a>
+
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://png2.cleanpng.com/sh/e8c693906d5d18807c8db440579640b8/L0KzQYm3VME0N6t7fZH0aYP2gLBuTfcue6ZujNc2Z33keb20gB9ueKZ5feQ2aXPyfsS0hB9wb51qRdd2YXnvPba0jfFqdF46edY5N0TlcYjsWPE6OV88UaoDNUG8RIK8UsM3OWE9SaIAMUi2PsH1h5==/kisspng-g-suite-gmail-computer-icons-google-email-e-mail-5ad074ba7e8a91.7988519415236108105183.png">ronaldazevedolima@gmail.com</a>
 
 <h2>Front-and stacks:</h2>
 <div style="display:flex">
