@@ -23,7 +23,7 @@
 </div>
 
 <div>
-<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg">ronaldazevedolima@gmail.com</a>
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg">  ronaldazevedolima@gmail.com</a>
 </div>
 
 <h2>Front-and stacks:</h2>
@@ -49,7 +49,32 @@
 </div>
 </div>
 
+<h2>Back-and stacks:</h2>
+<div style="display:flex">
+<div>
+<img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
+</div>
 
+<div>
+<img width="40px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png">
+</div>
+
+<div>
+<img width="40px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png">
+</div>
+
+<div>
+<img width="40px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
+</div>
+
+<div>
+<img width="40px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png">
+</div>
+
+<div>
+<img width="40px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg">
+</div>
+</div>
 
 
 
