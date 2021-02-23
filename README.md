@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ronald Lima</h1>
 
-<h3 style="text-align:center">About me</h3>
+<h3 style="text-align:center;">About me</h3>
 <div style="display:flex;flex-direction:row;">
 
 <div>
@@ -28,7 +28,7 @@
 
 ---
 
-<h3 style="text-align:center">Contacts</h3>
+<h3 style="text-align:center;">Contacts</h3>
 <span style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3"></a>
 </span>
@@ -66,7 +66,7 @@
 </span>
 </span>
 
-<h3 style="text-align:center">Back-and stacks:</h3>
+<h3 style="text-align:center;">Back-and stacks:</h3>
 <span style="display:flex">
 <span>
 <img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
@@ -94,7 +94,7 @@
 </span>
 
 ---
-<h3 style="text-align:center">Learning...</h3>
+<h3 style="text-align:center;">Learning...        <img width="200" src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif">       </h3>
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
 </span>
