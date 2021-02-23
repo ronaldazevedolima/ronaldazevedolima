@@ -111,6 +111,8 @@
 
 ### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> No momento estou... </p>
 
+### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="70px" /> Stacks </p>
+
 <!--
 nao consegui editar o tamanho da imagem
  js:
