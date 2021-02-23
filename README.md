@@ -2,9 +2,6 @@
 
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/picgifs-the-hobbit-an-unexpected-journey-811999.gif" width="100px" /> About me </p>
 
-<div style="display:flex;flex-direction:row;">
-
-<div>
 <ul>
 <li>35</li>
 <li>Brazilian, living in Florianópolis</li>
@@ -12,41 +9,33 @@
 <li>Nerd</li>
 <li>Retired rpg player</li>
 <li>Gastronomy Lover</li>
-</ul>
-</div>
-
-<div>
-<ul>
 <li>Engineer</li>
 <li>Retired Chef</li>
 <li>In love with programing</li>
 <li>Full stack developer</li>
 </ul>
-</div>
-
-</div>
 
 ---
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/627e4d42ad13ca941d81a353c872cd26/tumblr_pk5uhs3t011s3ca4no4_r1_500.gifv" width="100px" /> Contacts </p>
 
-<span style="display:felx">
+<div style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3" /></a>
-</span>
+</div>
 
-<span>
+<div>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg" />(48) 99125-0308</a>
-</span>
+</div>
 
-<span>
+<div>
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="email" src="https://i.pinimg.com/564x/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.jpg" />  ronaldazevedolima@gmail.com</a>
-</span>
+</div>
 
 ---
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="100px" /> Stacks </p>
 
-### <p align="center" > <img src="https://i.imgur.com/ECe01GQ.gif" width="100px" /> Front-and: </p>
+### <p align="center" > <img src="https://i.imgur.com/ECe01GQ.gif" width="60px" /> Front-and: </p>
 
 <span style="display:inline-block">
 <span>
@@ -70,7 +59,7 @@
 </span>
 </span>
 
-### <p align="center" > <img src="https://i.imgur.com/zeVEmWE.gif" width="100px" /> Back-and: </p>
+### <p align="center" > <img src="https://i.imgur.com/zeVEmWE.gif" width="60px" /> Back-and: </p>
 
 <span style="display:flex">
 <span>
@@ -109,3 +98,4 @@
 ### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="100px" /> No momento estou... </p>
 
 ### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> No momento estou... </p>
+
