@@ -29,7 +29,7 @@
 
 ---
 
-### <p align="center" > <img src="" width="100px" /> Contacts </p>
+### <p align="center" > <img src="https://64.media.tumblr.com/627e4d42ad13ca941d81a353c872cd26/tumblr_pk5uhs3t011s3ca4no4_r1_500.gifv" width="100px" /> Contacts </p>
 
 <span style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3" /></a>
@@ -100,7 +100,7 @@
 </span>
 
 ---
-### <p align="center" > <img src="https://media1.tenor.com/images/719011eb07cf808a76a50a9103fb1a28/tenor.gif" width="100px" /> Learning... </p>
+### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif" width="100px" /> Learning... </p>
 
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
