@@ -12,7 +12,7 @@
 <li>Engineer</li>
 <li>Retired Chef</li>
 <li>In love with programing</li>
-<li>Full stack developer</li>
+<li>Junior full stack developer</li>
 </ul>
 
 ---
@@ -97,7 +97,7 @@
 
 ---
 
-### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> 2021 goals... </p>
+### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="100px" /> 2021 goals... </p>
 
 <ul>
 <li>keep learnig</li>
@@ -109,7 +109,7 @@
 
 ---
 
-### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/hd71eqe.gif" width="70px" /> Hobbies </p>
+### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/hd71eqe.gif" width="100px" /> Hobbies </p>
 
 <ul>
 <li>Stay with my family</li>
