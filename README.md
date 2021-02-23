@@ -108,6 +108,9 @@
 
 ### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="70px" /> No momento estou... </p>
 
+
+### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> No momento estou... </p>
+
 <!--
 nao consegui editar o tamanho da imagem
  js:
