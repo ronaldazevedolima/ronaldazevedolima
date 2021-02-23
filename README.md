@@ -74,27 +74,27 @@
 
 <span style="display:flex">
 <span>
-<img width="70px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 </span>
 
 <span>
-<img width="70px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
 </span>
 
 <span>
-<img width="70px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
 </span>
 
 <span>
-<img width="70px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
 </span>
 
 <span>
-<img width="70px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" />
 </span>
 
 <span>
-<img width="70px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg" />
 </span>
 </span>
 
