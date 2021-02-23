@@ -43,7 +43,9 @@
 
 ---
 
-<h3 style="text-align:center;">Front-and stacks:</h3>
+<h3><img with="160px" scr="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv">Stacks</h3>
+
+<h4 style="text-align:center;">Front-and:</h4>
 <span style="display:inline-block">
 <span>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
@@ -66,7 +68,7 @@
 </span>
 </span>
 
-<h3 style="text-align:center;">Back-and stacks:</h3>
+<h4 style="text-align:center;">Back-and:</h4>
 <span style="display:flex">
 <span>
 <img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
@@ -94,7 +96,11 @@
 </span>
 
 ---
-<h3 style="text-align:center;">Learning...<img width="200" src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif">       </h3>
+
+
+<h3 style="text-align:center;"><img width="160px" src="https://media1.tenor.com/images/719011eb07cf808a76a50a9103fb1a28/tenor.gif"> Learning...</h3>
+
+
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
 </span>
