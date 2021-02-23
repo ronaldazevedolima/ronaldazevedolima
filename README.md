@@ -10,8 +10,7 @@
 <li>Retired rpg player <img alt="" src="http://31.media.tumblr.com/73ecde8aecd3c9867f5b7d016321bd0f/tumblr_n03gy42Zgy1t1y086o1_400.gif" width="35px" /></li>
 <li>Gastronomy Lover<img alt="aragorn comendo" src="http://33.media.tumblr.com/e7a2b980f7f9ccf354f5fc94a462df96/tumblr_ng6jdcnHf51tkl30lo1_500.gif" width="35px" /></li>
 <li>Engineer <img alt="" src="https://thumbs.gfycat.com/ThriftyPoliteFowl-size_restricted.gif" width="35px" /></li>
-<li>Retired Chef<img alt="potatoes" src="https://i.pinimg.com/originals/5e/41/ac/5e41ac414d5bed400cc6884ae53cf074.gif
-" width="35px" /></li>
+<li>Retired Chef<img alt="potatoes" src="https://i.pinimg.com/originals/00/44/04/0044040a52454e2bde56b19f83f74220.gif" width="35px" /></li>
 <li>In love with programing <img alt="" src="https://hackernoon.com/drafts/7ruj3lix.png" width="35px" /></li>
 <li>Junior full stack developer <img alt="" src="https://media4.giphy.com/media/WNwErIxqX18xmm92UX/source.gif" width="35px" /></li>
 </ul>
