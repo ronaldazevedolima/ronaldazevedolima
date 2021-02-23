@@ -106,7 +106,7 @@
 </span>
 
 
-### <p align="center" > <img src="https://media1.tenor.com/images/719011eb07cf808a76a50a9103fb1a28/tenor.gif" width="70px" /> No momento estou... </p>
+### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="70px" /> No momento estou... </p>
 
 <!--
 nao consegui editar o tamanho da imagem
