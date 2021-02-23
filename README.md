@@ -3,16 +3,16 @@
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/picgifs-the-hobbit-an-unexpected-journey-811999.gif" width="100px" /> About me </p>
 
 <ul>
-<li>35<img alt="" src="https://i.pinimg.com/originals/29/9b/11/299b11825c1f2b1f07866e8e7a31fb3a.gif" width="35px" /></li>
-<li>Brazilian, living in Florianópolis <img alt="" src="https://i.pinimg.com/originals/47/65/9a/47659a7a5e6b749f7bcbf2ebfb62b8a1.gif" width="35px" /></li>
-<li>Husband, Father <img alt="" src="http://31.media.tumblr.com/f20c93824f095d3069f384fd195afc0b/tumblr_n1ntfwjM961rq48dxo2_r3_250.gif" width="35px" /></li>
-<li>Nerd <img alt="" src="https://media4.giphy.com/media/bzFtsbvHDuGJi/giphy.gif?cid=ecf05e47ruyvuijimyjuofehiime436b5cttn5vfjsghkgvl&rid=giphy.gif" width="35px" /></li>
-<li>Retired rpg player <img alt="" src="http://31.media.tumblr.com/73ecde8aecd3c9867f5b7d016321bd0f/tumblr_n03gy42Zgy1t1y086o1_400.gif" width="35px" /></li>
-<li>Gastronomy Lover<img alt="aragorn comendo" src="http://33.media.tumblr.com/e7a2b980f7f9ccf354f5fc94a462df96/tumblr_ng6jdcnHf51tkl30lo1_500.gif" width="35px" /></li>
-<li>Engineer <img alt="" src="https://thumbs.gfycat.com/ThriftyPoliteFowl-size_restricted.gif" width="35px" /></li>
-<li>Retired Chef<img alt="potatoes" src="https://i.pinimg.com/originals/00/44/04/0044040a52454e2bde56b19f83f74220.gif" width="35px" /></li>
-<li>In love with programing <img alt="" src="https://hackernoon.com/drafts/7ruj3lix.png" width="35px" /></li>
-<li>Junior full stack developer <img alt="" src="https://media4.giphy.com/media/WNwErIxqX18xmm92UX/source.gif" width="35px" /></li>
+<li>35</li>
+<li>Brazilian, living in Florianópolis</li>
+<li>Husband, Father</li>
+<li>Nerd</li>
+<li>Retired rpg player</li>
+<li>Gastronomy Lover</li>
+<li>Engineer</li>
+<li>Retired Chef</li>
+<li>In love with programing</li>
+<li>Junior full stack developer</li>
 </ul>
 
 ---
@@ -130,3 +130,17 @@
 ---
 
 ### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="100px" /> Thanks for coming... </p>
+
+<!-- lista com gifs
+ <ul>
+<li>35<img alt="" src="https://i.pinimg.com/originals/29/9b/11/299b11825c1f2b1f07866e8e7a31fb3a.gif" width="35px" /></li>
+<li>Brazilian, living in Florianópolis <img alt="" src="https://i.pinimg.com/originals/47/65/9a/47659a7a5e6b749f7bcbf2ebfb62b8a1.gif" width="35px" /></li>
+<li>Husband, Father <img alt="" src="http://31.media.tumblr.com/f20c93824f095d3069f384fd195afc0b/tumblr_n1ntfwjM961rq48dxo2_r3_250.gif" width="35px" /></li>
+<li>Nerd <img alt="" src="https://media4.giphy.com/media/bzFtsbvHDuGJi/giphy.gif?cid=ecf05e47ruyvuijimyjuofehiime436b5cttn5vfjsghkgvl&rid=giphy.gif" width="35px" /></li>
+<li>Retired rpg player <img alt="" src="http://31.media.tumblr.com/73ecde8aecd3c9867f5b7d016321bd0f/tumblr_n03gy42Zgy1t1y086o1_400.gif" width="35px" /></li>
+<li>Gastronomy Lover<img alt="aragorn comendo" src="http://33.media.tumblr.com/e7a2b980f7f9ccf354f5fc94a462df96/tumblr_ng6jdcnHf51tkl30lo1_500.gif" width="35px" /></li>
+<li>Engineer <img alt="" src="https://thumbs.gfycat.com/ThriftyPoliteFowl-size_restricted.gif" width="35px" /></li>
+<li>Retired Chef<img alt="potatoes" src="https://i.pinimg.com/originals/00/44/04/0044040a52454e2bde56b19f83f74220.gif" width="35px" /></li>
+<li>In love with programing <img alt="" src="https://hackernoon.com/drafts/7ruj3lix.png" width="35px" /></li>
+<li>Junior full stack developer <img alt="" src="https://media4.giphy.com/media/WNwErIxqX18xmm92UX/source.gif" width="35px" /></li>
+</ul> -->
