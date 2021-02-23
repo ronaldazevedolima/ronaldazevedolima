@@ -94,7 +94,7 @@
 </span>
 
 ---
-<h3 style="text-align:center;">Learning...        <img width="200" src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif">       </h3>
+<h3 style="text-align:center;">Learning...<img width="200" src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif">       </h3>
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png">
 </span>
