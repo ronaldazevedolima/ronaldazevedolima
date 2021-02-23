@@ -33,9 +33,8 @@
 
 ---
 
-### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="100px" /> Stacks </p>
 
-### <p align="center" > <img src="https://img.wattpad.com/1013ce78d41b33c4f470de550f23a6d27507330d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f36652d655f7143694e4972627a513d3d2d3839373733363431322e313631353363373637333238613236323839373138303533353533322e676966" width="60px" /> Front-and: </p>
+### <p align="center" > <img src="https://img.wattpad.com/1013ce78d41b33c4f470de550f23a6d27507330d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f36652d655f7143694e4972627a513d3d2d3839373733363431322e313631353363373637333238613236323839373138303533353533322e676966" width="100px" /> Front-and: </p>
 
 <span style="display:inline-block">
 <span>
@@ -59,7 +58,7 @@
 </span>
 </span>
 
-### <p align="center" > <img src="https://giffiles.alphacoders.com/243/24319.gif" width="60px" /> Back-and: </p>
+### <p align="center" > <img src="https://giffiles.alphacoders.com/243/24319.gif" width="100px" /> Back-and: </p>
 
 <span style="display:flex">
 <span>
@@ -87,7 +86,7 @@
 </span>
 </span>
 
-### <p align="center" > <img src="https://pa1.narvii.com/6691/78b90589b632b3a9f835a09b4fea41e041c97d5f_hq.gif" width="60px" /> Tools and Methodologies: </p>
+### <p align="center" > <img src="https://pa1.narvii.com/6691/78b90589b632b3a9f835a09b4fea41e041c97d5f_hq.gif" width="100px" /> Tools and Methodologies: </p>
 <ul>
 <li><em>Git</em></li>
 <li><em>SCRUM</em></li>
