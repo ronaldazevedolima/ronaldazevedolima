@@ -1,6 +1,7 @@
 <h1>Hi there, I'm Ronald Lima</h1>
 
-<h3 style="text-align:center;">About me</h3>
+### <p align="center" > <img src="" width="100px" /> About me </p>
+
 <div style="display:flex;flex-direction:row;">
 
 <div>
@@ -28,7 +29,8 @@
 
 ---
 
-<h3 style="text-align:center;">Contacts</h3>
+### <p align="center" > <img src="" width="100px" /> Contacts </p>
+
 <span style="display:felx">
 <a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3" /></a>
 </span>
@@ -43,9 +45,10 @@
 
 ---
 
-<h3><img with="160px" scr="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" />Stacks</h3>
+### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="100px" /> Stacks </p>
 
-<h4 style="text-align:center;">Front-and:</h4>
+### <p align="center" > <img src="" width="100px" /> Front-and: </p>
+
 <span style="display:inline-block">
 <span>
 <img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
@@ -68,7 +71,8 @@
 </span>
 </span>
 
-<h4 style="text-align:center;">Back-and:</h4>
+### <p align="center" > <img src="" width="100px" /> Back-and: </p>
+
 <span style="display:flex">
 <span>
 <img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
@@ -96,38 +100,16 @@
 </span>
 
 ---
-
-
-<h3 style="text-align:center;"><img width="160px" src="https://media1.tenor.com/images/719011eb07cf808a76a50a9103fb1a28/tenor.gif" /> Learning...</h3>
-
+### <p align="center" > <img src="https://media1.tenor.com/images/719011eb07cf808a76a50a9103fb1a28/tenor.gif" width="100px" /> Learning... </p>
 
 <span>
 <img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 </span>
 
 
-### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="70px" /> No momento estou... </p>
+
+### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="100px" /> No momento estou... </p>
 
 
 ### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> No momento estou... </p>
 
-### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="70px" /> Stacks </p>
-
-<!--
-nao consegui editar o tamanho da imagem
- js:
-![alt text width](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png "js" "40px") -->
-<!--
-**ronaldazevedolima/ronaldazevedolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
