@@ -87,6 +87,13 @@
 </span>
 </span>
 
+### <p align="center" > <img src="https://pa1.narvii.com/6691/78b90589b632b3a9f835a09b4fea41e041c97d5f_hq.gif" width="60px" /> Tools and Methodologies: </p>
+<ul>
+<li><em>Git</em></li>
+<li><em>SCRUM</em></li>
+<li><em>Kanban</em></li>
+</ul>
+
 ---
 
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif" width="100px" /> Learning... </p>
