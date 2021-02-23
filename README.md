@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Ronald Lima</h1>
+# <p align="center" >Hi there, I'm Ronald Lima</p>
 
-### <p align="center" > <img src="" width="100px" /> About me </p>
+### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/picgifs-the-hobbit-an-unexpected-journey-811999.gif" width="100px" /> About me </p>
 
 <div style="display:flex;flex-direction:row;">
 
@@ -47,7 +47,7 @@
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/e96a113e396766ed60de4e0258f39c73/tumblr_inline_ohid4m7Ko41rp269s_500.gifv" width="100px" /> Stacks </p>
 
-### <p align="center" > <img src="" width="100px" /> Front-and: </p>
+### <p align="center" > <img src="https://i.imgur.com/ECe01GQ.gif" width="100px" /> Front-and: </p>
 
 <span style="display:inline-block">
 <span>
@@ -71,7 +71,7 @@
 </span>
 </span>
 
-### <p align="center" > <img src="" width="100px" /> Back-and: </p>
+### <p align="center" > <img src="https://i.imgur.com/zeVEmWE.gif" width="100px" /> Back-and: </p>
 
 <span style="display:flex">
 <span>
