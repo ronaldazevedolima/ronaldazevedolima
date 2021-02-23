@@ -26,7 +26,6 @@
 
 </div>
 
-
 ---
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/627e4d42ad13ca941d81a353c872cd26/tumblr_pk5uhs3t011s3ca4no4_r1_500.gifv" width="100px" /> Contacts </p>
@@ -51,23 +50,23 @@
 
 <span style="display:inline-block">
 <span>
-<img width="40px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
+<img width="70px" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 </span>
 
 <span>
-<img width="40px" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
+<img width="70px" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 </span>
 
 <span>
-<img width="40px" alt="Css3" src="https://miro.medium.com/max/280/1*xfJlmNB_-rAJAJzBNKanlQ.jpeg" />
+<img width="70px" alt="Css3" src="https://miro.medium.com/max/280/1*xfJlmNB_-rAJAJzBNKanlQ.jpeg" />
 </span>
 
 <span>
-<img width="40px" alt="redux" src="https://img2.gratispng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg" />
+<img width="70px" alt="redux" src="https://img2.gratispng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg" />
 </span>
 
 <span>
-<img width="40px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img width="70px" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 </span>
 </span>
 
@@ -75,41 +74,38 @@
 
 <span style="display:flex">
 <span>
-<img width="40px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
+<img width="70px" alt="node" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 </span>
 
 <span>
-<img width="40px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
+<img width="70px" alt="sequelize" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
 </span>
 
 <span>
-<img width="40px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
+<img width="70px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
 </span>
 
 <span>
-<img width="40px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
+<img width="70px" alt="mysql" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
 </span>
 
 <span>
-<img width="40px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" />
+<img width="70px" alt="mongoDb" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" />
 </span>
 
 <span>
-<img width="40px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg" />
+<img width="70px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg" />
 </span>
 </span>
 
 ---
+
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif" width="100px" /> Learning... </p>
 
 <span>
-<img width="40px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+<img width="70px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 </span>
-
-
 
 ### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="100px" /> No momento estou... </p>
 
-
 ### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="70px" /> No momento estou... </p>
-
