@@ -92,6 +92,8 @@
 <li><em>Git</em></li>
 <li><em>SCRUM</em></li>
 <li><em>Kanban</em></li>
+<li><em>Test Driven Development</em></li>
+<li><em>Unitary Tests</em></li>
 </ul>
 
 ---
