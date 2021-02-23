@@ -14,6 +14,7 @@
 <li>In love with programing <img alt="" src="https://hackernoon.com/drafts/7ruj3lix.png" width="35px" /></li>
 <li>Junior full stack developer <img alt="" src="https://media4.giphy.com/media/WNwErIxqX18xmm92UX/source.gif" width="35px" /></li>
 </ul>
+
 ---
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/627e4d42ad13ca941d81a353c872cd26/tumblr_pk5uhs3t011s3ca4no4_r1_500.gifv" width="100px" /> Contacts </p>
