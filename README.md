@@ -11,7 +11,7 @@
 <li>Gastronomy Lover</li>
 <li>Engineer</li>
 <li>Retired Chef</li>
-<li>In love with programing</li>
+<li>In love with programming</li>
 <li>Junior full stack developer</li>
 </ul>
 
@@ -108,11 +108,11 @@
 ### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="100px" /> 2021 goals... </p>
 
 <ul>
-<li>Keep learnig</li>
+<li>Keep learning</li>
 <li>Start contributing to open source projects</li>
 <li>Get a job</li>
 <li>Share knowledge</li>
-<li>Keep learnig</li>
+<li>Keep learning</li>
 </ul>
 
 ---
@@ -123,7 +123,7 @@
 <li>Stay with my family</li>
 <li>Read books</li>
 <li>Play video-games</li>
-<li>Whatch series</li>
+<li>Watch series</li>
 </ul>
 
 ---
