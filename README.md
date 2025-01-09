@@ -2,29 +2,27 @@
 
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/picgifs-the-hobbit-an-unexpected-journey-811999.gif" width="100px" /> About me </p>
 
-<ul>
-<li>35</li>
-<li>Brazilian, living in Florianópolis</li>
-<li>Husband, Father</li>
-<li>Nerd</li>
-<li>Retired rpg player</li>
-<li>Gastronomy Lover</li>
-<li>Engineer</li>
-<li>Retired Chef</li>
-<li>In love with programming</li>
-<li>Junior full stack developer</li>
-</ul>
+<p>Hello, my name is Ronald.<p>
+<p>I’m from Florianópolis, a technology and gastronomy enthusiast, married, and the proud father of an amazing daughter. I’m always ready to learn something new and face challenges.<p>
+<p>I am an Educator and Full Stack Developer with experience in Node.js, JavaScript, TypeScript, React, and Python, as well as proficiency in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB). Currently, I’m exploring Kotlin, Android, and Next.js.<p>
+<p>My journey in technology began <s>when I was 34 years old</s> in 2020 (I’ve learned that age is not the best data type). I decided to switch careers to follow my passion for programming and solve everyday problems with technology. This transition fueled my love for teaching technical knowledge and helping others transform their lives. For the past four years, I have been dedicated to training and mentoring aspiring developers.<p>
+<p>I have solid experience with software architecture (MVC, SOLID) and API integration (REST and GraphQL).<p>
+<p>Front-end technologies: React.js, Redux, Context API, and hooks.<p>
+<p>Back-end technologies: Express.js, authentication (JWT), SQL and NoSQL databases.<p>
+<p>Best practices: Object-Oriented Programming (OOP) and test-driven development (TDD/BDD) using tools like Chai, Mocha, Sinon, and Jest.<p>
+<p>Other tools and methodologies: Docker, Sequelize, Git, Scrum, and Kanban.<p>
+<p>I believe in the power of teamwork, knowledge sharing, and continuous improvement, both technically and personally. My goal is to join a collaborative team where I can contribute to project and team growth while continuing to learn and develop my career.<p>
 
 ---
 
 ### <p align="center" > <img src="https://64.media.tumblr.com/627e4d42ad13ca941d81a353c872cd26/tumblr_pk5uhs3t011s3ca4no4_r1_500.gifv" width="100px" /> Contacts </p>
 
 <div style="display:felx">
-<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614024674~hmac=080085b416e9a57fdf882c05a4ea7ce3" /></a>
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="linkedin" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/4-1.png" />Linkedin</a>
 </div>
 
 <div>
-<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="50px" alt="whatsapp" src="https://www.ccbeusorocaba.com.br/wp-content/uploads/2020/02/4705398-whatsapp-logo-download-whatsapp-png-download-670503-free-whatsapp-logo-png-900_520_preview.jpg" />(48) 99125-0308</a>
+<a href="https://www.linkedin.com/in/ronald-limaa" target="_blank"><img width="40px" alt="whatsapp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />(48) 99125-0308</a>
 </div>
 
 <div>
@@ -70,7 +68,7 @@
 </span>
 
 <span>
-<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="socketIo" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="socketIo" src="https://itsolution24x7.com/blog/wp-content/uploads/2020/06/socketio.png" />
 </span>
 
 <span>
@@ -82,7 +80,11 @@
 </span>
 
 <span>
-<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="mongoDb" src="https://seekicon.com/free-icon-download/heroku-icon_4.svg" />
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+</span>
+
+<span>
+<img style="vertical-align:top;margin:6px 4px;" width="70px" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 </span>
 </span>
 
@@ -100,17 +102,24 @@
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/tumblr_inline_mmokjpatww1qz4rgp.gif" width="100px" /> Learning... </p>
 
 <span>
-<img width="70px" alt="mongoDb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+<img style="vertical-align:bottom;margin:35px 4px;" width="60px" alt="kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" />
+</span>
+
+<span>
+<img style="vertical-align:top;margin:6px 4px;" width="50px" alt="android" src="https://conteudo.imguol.com.br/2012/10/19/o-simpatico-robo-verde-simbolo-do-android-sistema-operacional-do-google-ja-virou-tema-para-os-mais-variados-gadgets-e-outros-objetos-menos-tecnologicos-que-voce-possa-imaginar-as-invencoes-vao-desde-1350686479029_142x200.jpg.webp" />
+</span>
+
+<span>
+<img style="vertical-align:top;margin:6px 4px;" width="60px" alt="kotlin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5kZBesOnYaMK8YWCQo_bWK3LamPbjDKGNY3BMMGhpffJjDGdqRhrKhwwyeLnx8ivE3c&usqp=CAU" />
 </span>
 
 ---
 
-### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="100px" /> 2021 goals... </p>
+### <p align="center" > <img src="https://pa1.narvii.com/6691/ff377b75c048b9d4b97f5f6a8b05618cdd18d845_hq.gif" width="100px" /> Goals... </p>
 
 <ul>
 <li>Keep learning</li>
 <li>Start contributing to open source projects</li>
-<li>Get a job</li>
 <li>Share knowledge</li>
 <li>Keep learning</li>
 </ul>
@@ -120,26 +129,12 @@
 ### <p align="center" > <img src="https://capricho.abril.com.br/wp-content/uploads/2016/07/hd71eqe.gif" width="100px" /> Hobbies </p>
 
 <ul>
-<li>Stay with my family</li>
-<li>Read books</li>
+<li>Stay with family</li>
+<li>Read</li>
 <li>Play video-games</li>
-<li>Watch series</li>
 </ul>
 
 ---
 
 ### <p align="center" > <img src="https://24.media.tumblr.com/tumblr_m7iqw4hhCl1qgzdhjo3_500.gif" width="100px" /> Thanks for coming... </p>
 
-<!-- lista com gifs
- <ul>
-<li>35<img alt="" src="https://i.pinimg.com/originals/29/9b/11/299b11825c1f2b1f07866e8e7a31fb3a.gif" width="35px" /></li>
-<li>Brazilian, living in Florianópolis <img alt="" src="https://i.pinimg.com/originals/47/65/9a/47659a7a5e6b749f7bcbf2ebfb62b8a1.gif" width="35px" /></li>
-<li>Husband, Father <img alt="" src="http://31.media.tumblr.com/f20c93824f095d3069f384fd195afc0b/tumblr_n1ntfwjM961rq48dxo2_r3_250.gif" width="35px" /></li>
-<li>Nerd <img alt="" src="https://media4.giphy.com/media/bzFtsbvHDuGJi/giphy.gif?cid=ecf05e47ruyvuijimyjuofehiime436b5cttn5vfjsghkgvl&rid=giphy.gif" width="35px" /></li>
-<li>Retired rpg player <img alt="" src="http://31.media.tumblr.com/73ecde8aecd3c9867f5b7d016321bd0f/tumblr_n03gy42Zgy1t1y086o1_400.gif" width="35px" /></li>
-<li>Gastronomy Lover<img alt="aragorn comendo" src="http://33.media.tumblr.com/e7a2b980f7f9ccf354f5fc94a462df96/tumblr_ng6jdcnHf51tkl30lo1_500.gif" width="35px" /></li>
-<li>Engineer <img alt="" src="https://thumbs.gfycat.com/ThriftyPoliteFowl-size_restricted.gif" width="35px" /></li>
-<li>Retired Chef<img alt="potatoes" src="https://i.pinimg.com/originals/00/44/04/0044040a52454e2bde56b19f83f74220.gif" width="35px" /></li>
-<li>In love with programing <img alt="" src="https://hackernoon.com/drafts/7ruj3lix.png" width="35px" /></li>
-<li>Junior full stack developer <img alt="" src="https://media4.giphy.com/media/WNwErIxqX18xmm92UX/source.gif" width="35px" /></li>
-</ul> -->
